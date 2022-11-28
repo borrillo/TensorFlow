@@ -55,3 +55,4 @@ For now, just follow along the video and code exercise below to get an idea how 
 
 If you want to learn more, please have a look at our [book](https://learning.oreilly.com/library/view/whats-new-in/9781492073727/)
 
+CB comment 11/28/2022: Very cool that the creator of these videos is a published author as well!
